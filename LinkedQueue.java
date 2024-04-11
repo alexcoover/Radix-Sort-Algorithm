@@ -1,6 +1,6 @@
 /**
  * The class defines a node-based queue.
- * @author Varik Hoang <varikmp@uw.edu>
+ * @author Alex Coover
  * @param <Type> the generic data type
  */
 public class LinkedQueue<Type>
