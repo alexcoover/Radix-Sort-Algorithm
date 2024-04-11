@@ -14,7 +14,7 @@ import java.util.Scanner;
 /**
  * The main class of the program
  * 
- * @author Varik Hoang <varikmp@uw.edu>
+ * @author Alex Coover
  */
 public class RadixSortMain {
 	/**
