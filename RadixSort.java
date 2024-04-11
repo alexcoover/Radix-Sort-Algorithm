@@ -2,7 +2,7 @@
 /**
  * The class defines to sort the integer number in queue.
  * 
- * @author Varik Hoang <varikmp@uw.edu>
+ * @author Alex Coover
  */
 public class RadixSort {
 	/**
